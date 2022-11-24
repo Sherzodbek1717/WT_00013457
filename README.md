@@ -36,7 +36,7 @@ In footer part, there is given information about how to contact us. With that be
 
 Conclusion
 
-All in all, I used a little bit of JavaScript for Log in html, when you click the "Submit" button it shows you thanks for registering. it helps people to make sure that they have successfully registered for the website.The website, indeed, made basically from CSS and HTML only. By the way, I tried to do responsive to phone and computer. When screen gets smaller, it will be adjust to phone or Ipads, So it would be comfortable to use other devices as well.
+All in all, I used a little bit of JavaScript for Log in html, when you click the "Submit" button it shows you thanks for registering. it helps people to make sure that they have successfully registered for the website.The website, indeed, made basically from CSS and HTML only. 
 ![telegram-cloud-photo-size-2-5188559680752960587-y](https://user-images.githubusercontent.com/113887151/203842907-6f6018b1-c125-4076-b748-360a097f8198.jpg)
 
 This is the first website I have ever made, I do my best to complete it, Although there are many things that I have to work on 
